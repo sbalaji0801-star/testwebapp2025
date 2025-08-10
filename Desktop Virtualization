@@ -1,0 +1,4 @@
+Desktop Virtualization is also known as OS virtualization or VDI (Virtual Desktop Infrastructure). 
+Desktop virtualization is a process that allows you to run and deploy multiple virtual Operating Systems on a physical server. 
+The users can access their virtual desktops from anywhere because it is present on a remote server. 
+Examples are VMware Horizon View, Citrix Xen Desktop, etc.
